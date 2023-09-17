@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body {
+  background-color: hsl(145, 76%, 36%);
+  color: #555;
+  font-size: 1.1rem;
+  font-family: Roboto Mono;
+  text-align: center;
+}
+
+.element {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  border-color: #fff;
+  border-width: 10px;
+  text-align: center;
+  color: #fff;
+  line-height: 180px;
+}
+
+.element--none {
+  border-style: none;
+}
+
+.element--hidden {
+  border-style: hidden;
+}
+
+.element--dotted {
+  border-style: dotted;
+}
+
+.element--dashed {
+  border-style: dashed;
+}
+
+.element--solid {
+  border-style: solid;
+}
+
+.element--double {
+  border-style: double;
+}
+
+.element--groove {
+  border-style: groove;
+}
+
+.element--ridge {
+  border-style: ridge;
+}
+
+.element--inset {
+  border-style: inset;
+}
+
+.element--outset {
+  border-style: outset;
+}

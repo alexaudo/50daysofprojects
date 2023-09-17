@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background: #222;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+p {
+  font-size: 1.2rem;
+  text-align: center;
+  color: #fff;
+  padding: 1em;
+}
+
+.img-typewriter {
+  width: 30%;
+  border-radius: 15px;
+}
+
+.typed-text {
+  position: relative;
+  color: #ff5733;
+}
+
+.typed-text::after,
+.typed-text::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 12em;
+  height: 1.5rem;
+  background: #222;
+  border-left: 2px solid #ff5733;
+  animation: typing 6s steps(20) forwards 2s, blink 750ms steps(20) infinite;
+}
+
+@keyframes typing {
+  100% {
+    left: 100%;
+    background: #222;
+  }
+}
+
+@keyframes blink {
+  100% {
+    border-left: 1px solid transparent;
+  }
+}
