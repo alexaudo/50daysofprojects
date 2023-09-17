@@ -27,11 +27,22 @@ Have fun coding, and remember, the journey is just as important as the destinati
 ## Project List
 Here's a list of the projects I've completed so far:
 
-| Day  | Project Name                   | Live Demo                 |
-| --- | ------------------------------ | ---------------------------- |
-| 1   | [blurry-loading](https://github.com/alexaudo/50daysofprojects/tree/main/blurry-loading)
- | Short description of Project 1 |
-| 2   | [Progress Steps](projects/project2.md) | Short description of Project 2 |
-| ... | ...                            | ...                          |
+| Day | Project Name                                                     | Live Demo                                                                                        |
+| --- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 1   | [blurry-loading](https://github.com/alexaudo/50daysofprojects/tree/main/blurry-loading) | [Live Demo](https://example.com) |
+| 2   | [Progress Steps](./progress-steps)                               | [Live Demo](https://example.com) |
+| 3   | ...                                                              | ...                                                                                              |
+| 4   | ...                                                              | ...                                                                                              |
+| 5   | ...                                                              | ...                                                                                              |
+| 6   | ...                                                              | ...                                                                                              |
+| 7   | ...                                                              | ...                                                                                              |
+| 8   | ...                                                              | ...                                                                                              |
+| 9   | ...                                                              | ...                                                                                              |
+| 10  | ...                                                              | ...                                                                                              |
+| 11  | ...                                                              | ...                                                                                              |
+| 12  | ...                                                              | ...                                                                                              |
+| 13  | ...                                                              | ...                                                                                              |
+| 14  | ...                                                              | ...                                                                                              |
+
 
 Each project is detailed in its own file. Click on the project name to view the project's details and code.
