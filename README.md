@@ -29,7 +29,8 @@ Here's a list of the projects I've completed so far:
 
 | Day  | Project Name                   | Live Demo                 |
 | --- | ------------------------------ | ---------------------------- |
-| 1   | [Expanding Cards](projects/project1.md) | Short description of Project 1 |
+| 1   | [blurry-loading](https://github.com/alexaudo/50daysofprojects/tree/main/blurry-loading)
+ | Short description of Project 1 |
 | 2   | [Progress Steps](projects/project2.md) | Short description of Project 2 |
 | ... | ...                            | ...                          |
 
