@@ -29,20 +29,20 @@ Here's a list of the projects I've completed so far:
 
 | Day | Project Name                                                     | Live Demo                                                                                        |
 | --- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 1   | [blurry-loading](https://github.com/alexaudo/50daysofprojects/tree/main/blurry-loading) | [Live Demo](https://example.com) |
-| 2   | [Progress Steps](./progress-steps)                               | [Live Demo](https://example.com) |
-| 3   | ...                                                              | ...                                                                                              |
-| 4   | ...                                                              | ...                                                                                              |
-| 5   | ...                                                              | ...                                                                                              |
-| 6   | ...                                                              | ...                                                                                              |
-| 7   | ...                                                              | ...                                                                                              |
-| 8   | ...                                                              | ...                                                                                              |
-| 9   | ...                                                              | ...                                                                                              |
-| 10  | ...                                                              | ...                                                                                              |
-| 11  | ...                                                              | ...                                                                                              |
-| 12  | ...                                                              | ...                                                                                              |
-| 13  | ...                                                              | ...                                                                                              |
-| 14  | ...                                                              | ...                                                                                              |
+| 1   | [blurry-loading](https://github.com/alexaudo/50daysofprojects/tree/main/blurry-loading) | [Live Demo](https://alexaudo.github.io/50daysofprojects/blurry-loading/) |
+| 2   | [border-style](https://github.com/alexaudo/50daysofprojects/tree/main/border-style)   | [Live Demo](https://alexaudo.github.io/50daysofprojects/border-style/) |
+| 3   | [dad-jokes](https://github.com/alexaudo/50daysofprojects/tree/main/dad-jokes) | [Live Demo](https://alexaudo.github.io/50daysofprojects/dad-jokes/) |                                                                                           
+| 4   | [editorial-layout](https://github.com/alexaudo/50daysofprojects/tree/main/editorial-layout) | [Live Demo](https://alexaudo.github.io/50daysofprojects/editorial-layout/) |                                                                                             
+| 5   | [faq-collapse](https://github.com/alexaudo/50daysofprojects/tree/main/faq-collapse) | [Live Demo](https://alexaudo.github.io/50daysofprojects/faq-collapse/) |                                                                                             
+| 6   | [form-wave-animation](https://github.com/alexaudo/50daysofprojects/tree/main/form-wave-animation) | [Live Demo](https://alexaudo.github.io/50daysofprojects/form-wave-animation/) |                                                                                              
+| 7   | [hero-section](https://github.com/alexaudo/50daysofprojects/tree/main/hero-section) | [Live Demo](https://alexaudo.github.io/50daysofprojects/hero-section/) |                                                                                             
+| 8   | [hidden-search-widget](https://github.com/alexaudo/50daysofprojects/tree/main/hidden-search-widget) | [Live Demo](https://alexaudo.github.io/50daysofprojects/hidden-search-widgete/) |                                                                                            
+| 9   | [pre-output](https://github.com/alexaudo/50daysofprojects/tree/main/pre-output) | [Live Demo](https://alexaudo.github.io/50daysofprojects/pre-output/) |                                                                                              
+| 10  | [rotating-navigation](https://github.com/alexaudo/50daysofprojects/tree/main/rotating-navigation) | [Live Demo](https://alexaudo.github.io/50daysofprojects/rotating-navigation/) |                                                                                             
+| 11  | [scroll-animation](https://github.com/alexaudo/50daysofprojects/tree/main/scroll-animation) | [Live Demo](https://alexaudo.github.io/50daysofprojects/scroll-animation/) |                                                                                              
+| 12  | [sound-board](https://github.com/alexaudo/50daysofprojects/tree/main/sound-board)| [Live Demo](https://alexaudo.github.io/50daysofprojects/sound-board/) |                                                                                             
+| 13  | [split-landing-page](https://github.com/alexaudo/50daysofprojects/tree/main/split-landing-page)| [Live Demo](https://alexaudo.github.io/50daysofprojects/split-landing-page/) |                                                                                             
+| 14  | [type-of-quote](https://github.com/alexaudo/50daysofprojects/tree/main/type-of-quote)     | [Live Demo](https://alexaudo.github.io/50daysofprojects/type-of-quote/) |                                                                                              
 
 
 Each project is detailed in its own file. Click on the project name to view the project's details and code.
